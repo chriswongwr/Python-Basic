@@ -1,12 +1,12 @@
 # Python-Basic
 Intro to Python
-## 1. 使用方法说明
+## 使用方法说明
 
-  手册内容分为python编程核心、Numpy、Pandas三大部分，涵盖量化交易策略研究及回测编程中使用的核心python代码。  
+  手册内容分为python编程核心、Numpy基础、Pandas基础三大部分，涵盖数据、量化交易策略研究及回测编程中使用的核心python代码。  
   手册编写时使用python及相关模块版本：
-- python：python3.6.1
+- python：python3.7
 - numpy：numpy1.13.3
-- pandas: pandas0.20.3
+- pandas: pandas0.24.0
 
 
 手册使用过程中应注意一下注意事项：
